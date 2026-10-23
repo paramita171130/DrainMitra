@@ -87,7 +87,6 @@ DrainMitra is designed to support more responsible drainage management and contr
 - **SDG 6 — Clean Water and Sanitation:** Supports efforts to improve water management and reduce waste entering drainage systems.
 - **SDG 9 — Industry, Innovation and Infrastructure:** Explores technology-enabled monitoring for drainage infrastructure.
 - **SDG 11 — Sustainable Cities and Communities:** Aims to support more resilient urban drainage and maintenance practices.
-- **SDG 12 — Responsible Consumption and Production:** Encourages consideration of suitable recycled materials and responsible waste handling.
 
 These are intended contributions. Actual environmental impact will depend on implementation, maintenance, testing, and measured results.
 
